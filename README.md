@@ -1,3 +1,4 @@
+<img src="https://media.discordapp.net/attachments/635278809741918218/779659425698807858/a.gif">
 ### >Whoami
 
 #### Y0ung, 16yo, I'm a Computer Science Student, CyberSecurity enthusiastic.
@@ -20,5 +21,3 @@
 
 [HTB]: https://www.hackthebox.eu/profile/252510
 [twitter]: https://twitter.com/Y0ung_MA
-
-<img src="https://media.discordapp.net/attachments/635278809741918218/779659425698807858/a.gif">
