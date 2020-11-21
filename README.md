@@ -14,8 +14,8 @@
 <br>
 <h2 align="right">>Follow Me</h2>
 
-[<img align="right" alt="young | Twitter" width="44px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="right" alt="young | HTB" width="44px" src="https://forum.hackthebox.eu/uploads/RJZMUY81IQLQ.png" />][HTB]
+[<img align="right" alt="young | Twitter" width="38px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="right" alt="young | HTB" width="38px" src="https://forum.hackthebox.eu/uploads/RJZMUY81IQLQ.png" />][HTB]
 
 
 [HTB]: https://www.hackthebox.eu/profile/252510
