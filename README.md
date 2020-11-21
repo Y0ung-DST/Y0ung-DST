@@ -12,7 +12,7 @@
 <img align="left" alt="Y0ung-DST's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Y0ung-DST&show_icons=true&theme=tokyonight" />
 
 <br>
-<h1 align="right">>Follow Me</h1>
+<h2 align="right">>Follow Me</h2>
 
 [<img align="right" alt="young | Twitter" width="44px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="right" alt="young | HTB" width="44px" src="https://forum.hackthebox.eu/uploads/RJZMUY81IQLQ.png" />][HTB]
