@@ -1,6 +1,6 @@
 ### >Whoami
 
-# Y0ung, 16yo, I'm a Computer Science Student, CyberSecurity enthusiastic.
+#### Y0ung, 16yo, I'm a Computer Science Student, CyberSecurity enthusiastic.
 
 ### >About Y0ung-DST
 
