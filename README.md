@@ -17,7 +17,7 @@
 
 <br />
 
-<img align="left" alt="Y0ung-DST's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Y0ung-DST&show_icons=true&hide_border=true" />
+<img align="left" alt="Y0ung-DST's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Y0ung-DST&show_icons=true&theme=tokyonight" />
 
 [htb]: https://www.hackthebox.eu/profile/252510
 [twitter]: https://twitter.com/Y0ung_MA
