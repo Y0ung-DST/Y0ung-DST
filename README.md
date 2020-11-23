@@ -1,6 +1,6 @@
 ### >Whoami
 
-#### Y0ung, I'm a Computer Science Student, CyberSecurity enthusiastic.
+#### Y0ung, I'm a Computer Science Student, CyberSecurity enthusiast.
 
 <img width="42px" src="https://media.discordapp.net/attachments/635278809741918218/779662771591446558/b.gif">
 
