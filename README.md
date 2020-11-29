@@ -10,7 +10,7 @@
 - I’m currently preparing for the OSCP.
 - I'm Self-Taught, I enjoy learning by myself.
 <br>
-<img align="left" alt="Y0ung-DST's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Y0ung-DST&show_icons=true&theme=tokyonight" />
+<img align="left" alt="Y0ung-DST's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Y0ung-DST&show_icons=true&theme=chartreuse-dark" />
 
 <br><br>
 
