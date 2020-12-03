@@ -6,7 +6,7 @@
 
 ### >About Y0ung-DST
 
-- CTF Player.
+- CTF Player. Member of TheHwackra,
 - I’m currently preparing for the OSCP.
 - I'm Self-Taught, I enjoy learning by myself.
 <br>
