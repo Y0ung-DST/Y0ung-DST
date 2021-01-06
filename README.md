@@ -16,7 +16,9 @@
 
 [<img align="left" alt="young | Twitter" width="38px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="young | HTB" width="38px" src="https://forum.hackthebox.eu/uploads/RJZMUY81IQLQ.png" />][HTB]
+[<img align="left" alt="young | medium" width="38px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Medium_logo_Monogram.svg/1200px-Medium_logo_Monogram.svg.png" />][medium]
 
 
 [HTB]: https://www.hackthebox.eu/profile/252510
 [twitter]: https://twitter.com/Y0ung_MA
+[medium]: https://y0ungdst.medium.com
