@@ -1,14 +1,14 @@
 ### >Whoami
 
-#### Y0ung, I'm a Computer Science Student, CyberSecurity enthusiast.
+#### Y0ung, I'm a Computer Science Student at 1337 School, Cyber Security enthusiast.
 
 <img width="42px" src="https://media.discordapp.net/attachments/635278809741918218/779662771591446558/b.gif">
 
 ### >About Y0ung-DST
 
 - CTFer.
+- Bug Hunter, helped to secure over 20+ companies over the world, including (PayPal, Duolingo, Steam, and Jenzabar).
 - I’m currently preparing for the OSCP.
-- I'm Self-Taught, I enjoy learning by myself.
 <br>
 <img align="left" alt="Y0ung-DST's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Y0ung-DST&show_icons=true&theme=chartreuse-dark" />
 
