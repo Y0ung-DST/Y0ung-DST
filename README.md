@@ -10,6 +10,9 @@
 - Bug Hunter, helped to secure over 20+ companies over the world, including (PayPal, Duolingo, Steam, and Jenzabar).
 - I’m currently preparing for the OSCP.
 <br>
+<a href="https://github.com/Y0ung-DST">
+<img src="https://lanyard-profile-readme.vercel.app/api/633772744483274793"/>
+</a>
 <img align="left" alt="Y0ung-DST's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Y0ung-DST&show_icons=true&theme=chartreuse-dark" />
 
 <br><br>
