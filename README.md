@@ -1,13 +1,14 @@
 ### >Whoami
 
-#### Y0ung, I'm a Computer Science Student at 1337 School, Cyber Security enthusiast.
+#### Y0ung, OSCP & 42 Student, Cyber Security enthusiast.
 
 <img width="42px" src="https://media.discordapp.net/attachments/635278809741918218/779662771591446558/b.gif">
 
 ### >About Y0ung-DST
 
 - CTFer.
-- Bug Hunter, helped to secure over 20+ companies over the world, including (PayPal, Duolingo, Steam, and Jenzabar).
+- Red Teamer.
+- Bug Hunter, helped to secure over 20+ companies over the world, including (PayPal, Valve, Discord etc...).
 - I’m currently preparing for the OSCP.
 <br>
 <a href="https://github.com/Y0ung-DST">
