@@ -1,6 +1,6 @@
 ### >Whoami
 
-#### Y0ung, OSCP & 42 Student, Cyber Security enthusiast.
+#### Y0ung, OSCP & 42 Student, Offsec enthusiast.
 
 <img width="42px" src="https://media.discordapp.net/attachments/635278809741918218/779662771591446558/b.gif">
 
