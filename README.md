@@ -9,7 +9,6 @@
 - CTFer.
 - Red Teamer.
 - Bug Hunter, helped to secure over 20+ companies over the world, including (PayPal, Valve, Discord etc...).
-- I’m currently preparing for the OSCP.
 <br>
 <a href="https://github.com/Y0ung-DST">
 <img src="https://lanyard-profile-readme.vercel.app/api/633772744483274793"/>
