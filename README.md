@@ -7,7 +7,7 @@
 ### >About Y0ung-DST
 
 - CTFer.
-- Penetration Tester/Red Teamer wanna be.
+- Penetration Tester / Red Teamer wanna be.
 - Bug Hunter, helped to secure over 20+ companies over the world, including (PayPal, Valve, Discord etc...).
 <br>
 <a href="https://github.com/Y0ung-DST">
