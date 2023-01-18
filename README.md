@@ -8,8 +8,8 @@
 
 - CTFer.
 - Penetration Tester.
-- Red Teamer wanna be.
-- Bug Hunter, helped to secure over 20+ companies over the world, including (PayPal, Valve, Discord etc...).
+- Bug Hunter, helped to secure over 20+ companies, including (PayPal, Valve, Discord etc...).
+- Vulnerability Researcher, identified and reported two CVEs, CVE-2022-31855 and CVE-2021-26723.
 <br>
 <a href="https://github.com/Y0ung-DST">
 <img src="https://lanyard-profile-readme.vercel.app/api/633772744483274793"/>
