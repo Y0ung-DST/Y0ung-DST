@@ -9,7 +9,7 @@
 - CTFer.
 - Penetration Tester.
 - Bug Hunter, helped to secure over 20+ companies, including (PayPal, Valve, Discord etc...).
-- Vulnerability Researcher, identified and reported two CVEs, CVE-2022-31855 and CVE-2021-26723.
+- Vulnerability Researcher, identified and reported CVE-2022-31855 & CVE-2021-26723.
 <br>
 <a href="https://github.com/Y0ung-DST">
 <img src="https://lanyard-profile-readme.vercel.app/api/633772744483274793"/>
