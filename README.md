@@ -6,8 +6,7 @@
 
 ### >About Y0ung-DST
 
-- CTFer.
-- Penetration Tester.
+- Full time Penetration Tester.
 - Bug Hunter, helped to secure over 20+ companies, including (PayPal, Valve, Discord etc...).
 - Vulnerability Researcher, identified and reported CVE-2022-31855 & CVE-2021-26723.
 <br>
