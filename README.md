@@ -22,6 +22,6 @@ Y0ung, OSCP & 1337 (42) Student.
 [<img align="left" alt="young | medium" width="38px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Medium_logo_Monogram.svg/1200px-Medium_logo_Monogram.svg.png" />][medium]
 
 
-[HTB]: https://www.hackthebox.eu/profile/252510
+[HTB]: https://app.hackthebox.com/profile/252510
 [twitter]: https://twitter.com/Y0ung_MA
 [medium]: https://y0ungdst.medium.com
