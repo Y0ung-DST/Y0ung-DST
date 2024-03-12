@@ -2,7 +2,7 @@
 
 Y0ung, OSCP & 1337 (42) Student.
 
-<img width="42px" src="[https://media.discordapp.net/attachments/635278809741918218/779662771591446558/b.gif](https://media.discordapp.net/attachments/635278809741918218/779662771591446558/b.gif?ex=65feb68a&is=65ec418a&hm=ca730cea7e02a02155a03d55d15cfe92b9dc61576c517a8863f958565da6012e&)">
+<img width="42px" src="https://s9.gifyu.com/images/SUcbk.gif">
 
 ### >About Y0ung-DST
 
