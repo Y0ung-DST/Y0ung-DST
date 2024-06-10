@@ -6,7 +6,6 @@ Y0ung, OSCP & 1337 (42) Student.
 
 ### >About Y0ung-DST
 
-- Full time Cyber Security Consultant.
 - Bug Hunter, helped to secure over 20+ companies, including (PayPal, Valve, Discord etc...).
 - Vulnerability Researcher, identified and reported CVE-2022-31855 & CVE-2021-26723.
 <br>
