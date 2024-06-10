@@ -1,7 +1,5 @@
 ### >Whoami
 
-Y0ung, OSCP & 1337 (42) Student.
-
 <img width="42px" src="https://s9.gifyu.com/images/SUcbk.gif">
 
 ### >About Y0ung-DST
