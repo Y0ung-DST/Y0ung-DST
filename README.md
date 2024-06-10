@@ -14,11 +14,11 @@
 
 <br><br>
 
-[<img align="left" alt="young | Twitter" width="38px" src="https://media.discordapp.net/attachments/635278809741918218/965786404942647306/unknown.png" />][twitter]
-[<img align="left" alt="young | HTB" width="38px" src="https://media.discordapp.net/attachments/825798322673025084/884091379012206713/RJZMUY81IQLQ.png" />][HTB]
+[<img align="left" alt="young | X" width="38px" src="https://freepnglogo.com/images/all_img/1707222563twitter-logo-png.png" />][X]
+[<img align="left" alt="young | HTB" width="38px" src="https://static-00.iconduck.com/assets.00/hack-the-box-icon-2048x2048-vce7bnzq.png" />][HTB]
 [<img align="left" alt="young | medium" width="38px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Medium_logo_Monogram.svg/1200px-Medium_logo_Monogram.svg.png" />][medium]
 
 
 [HTB]: https://app.hackthebox.com/profile/252510
-[twitter]: https://twitter.com/Y0ung_MA
+[X]: https://twitter.com/Y0ung_MA
 [medium]: https://y0ungdst.medium.com
