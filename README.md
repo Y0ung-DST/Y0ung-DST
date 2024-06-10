@@ -15,7 +15,7 @@
 <br><br>
 
 [<img align="left" alt="young | X" width="38px" src="https://freepnglogo.com/images/all_img/1707222563twitter-logo-png.png" />][X]
-[<img align="left" alt="young | HTB" width="38px" src="https://cdn.icon-icons.com/icons2/3912/PNG/512/hackthebox_logo_icon_248118.png" />][HTB]
+[<img align="left" alt="young | HTB" width="38px" src="https://avatars.githubusercontent.com/u/31746234?s=280&v=4" />][HTB]
 [<img align="left" alt="young | medium" width="38px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Medium_logo_Monogram.svg/1200px-Medium_logo_Monogram.svg.png" />][medium]
 
 
