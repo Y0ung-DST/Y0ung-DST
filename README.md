@@ -14,7 +14,7 @@
 
 <br><br>
 
-[<img align="left" alt="young | X" width="38px" src="https://freepnglogo.com/images/all_img/1707222563twitter-logo-png.png" />][X]
+[<img align="left" alt="young | X" width="38px" src="https://images.freeimages.com/image/large-previews/2e5/x-twitter-logo-on-grey-circle-5694255.png" />][X]
 [<img align="left" alt="young | HTB" width="38px" src="https://avatars.githubusercontent.com/u/31746234?s=280&v=4" />][HTB]
 [<img align="left" alt="young | medium" width="38px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Medium_logo_Monogram.svg/1200px-Medium_logo_Monogram.svg.png" />][medium]
 
