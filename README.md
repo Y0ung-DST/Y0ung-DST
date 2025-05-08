@@ -1,6 +1,6 @@
 ### >Whoami
 
-<img width="42px" src="https://s9.gifyu.com/images/SUcbk.gif">
+<img width="42px" src="https://raw.githubusercontent.com/Y0ung-DST/DNA_cryptography/refs/heads/main/assets/dabdoub.gif">
 
 ### >About Y0ung-DST
 
