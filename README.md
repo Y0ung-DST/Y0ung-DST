@@ -1,32 +1,37 @@
-### > Whoami
+<div align="center">
 
-<img width="42px" src="https://raw.githubusercontent.com/Y0ung-DST/DNA_cryptography/refs/heads/main/assets/dabdoub.gif">
+<img width="90px" src="https://raw.githubusercontent.com/Y0ung-DST/DNA_cryptography/refs/heads/main/assets/dabdoub.gif">
 
-### > About Y0ung-DST
+```bash
+Bug Hunter & Vulnerability Researcher
+```
 
-- Bug Hunter, helped secure 20+ companies including PayPal, Valve, Discord, etc.
-- Vulnerability Researcher, identified and reported:
+<img src="https://lanyard-profile-readme.vercel.app/api/633772744483274793?theme=dark&bg=0d1117&animated=true&hideDiscrim=true&borderRadius=30px"/>
+<br>
+
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/Y0ung_MA)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)](https://app.hackthebox.com/profile/252510)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://y0ungdst.medium.com)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+
+## About Me
+
+Bug Hunter, found security vulnerabilities for:
+  - PayPal, Discord, Valve, Duolingo, and other companies
+
+Vulnerability Researcher:
   - CVE-2022-31855
   - CVE-2021-26723
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
-<a href="https://github.com/Y0ung-DST">
-  <img src="https://lanyard-profile-readme.vercel.app/api/633772744483274793"/>
-</a>
+## GitHub Stats
 
-<br>
+<div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Y0ung-DST&theme=tokyonight-duo&hide_border=true)](https://git.io/streak-stats)
+<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=Y0ung-DST&theme=tokyonight&hide_border=true"/>
 
-<br><br>
-
-[<img align="left" alt="young | X" width="38px" src="https://images.freeimages.com/image/large-previews/2e5/x-twitter-logo-on-grey-circle-5694255.png" />][X]
-[<img align="left" alt="young | HTB" width="38px" src="https://avatars.githubusercontent.com/u/31746234?s=280&v=4" />][HTB]
-[<img align="left" alt="young | Medium" width="38px" src="https://images.icon-icons.com/3041/PNG/512/medium_logo_icon_189223.png" />][Medium]
-
-<br><br>
-
-[HTB]: https://app.hackthebox.com/profile/252510
-[X]: https://twitter.com/Y0ung_MA
-[Medium]: https://y0ungdst.medium.com
+</div>
