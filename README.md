@@ -10,13 +10,12 @@
 <a href="https://github.com/Y0ung-DST">
 <img src="https://lanyard-profile-readme.vercel.app/api/633772744483274793"/>
 </a>
-<img align="left" alt="Y0ung-DST's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Y0ung-DST&show_icons=true&theme=chartreuse-dark" />
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=Y0ung-DST&theme=tokyonight-duo&hide_border=true)](https://git.io/streak-stats)
 <br><br>
 
 [<img align="left" alt="young | X" width="38px" src="https://images.freeimages.com/image/large-previews/2e5/x-twitter-logo-on-grey-circle-5694255.png" />][X]
 [<img align="left" alt="young | HTB" width="38px" src="https://avatars.githubusercontent.com/u/31746234?s=280&v=4" />][HTB]
-[<img align="left" alt="young | medium" width="38px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Medium_logo_Monogram.svg/1200px-Medium_logo_Monogram.svg.png" />][medium]
+[<img align="left" alt="young | medium" width="38px" src="https://images.icon-icons.com/3041/PNG/512/medium_logo_icon_189223.png" />][medium]
 
 
 [HTB]: https://app.hackthebox.com/profile/252510
