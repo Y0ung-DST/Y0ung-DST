@@ -2,12 +2,10 @@
 
 <img width="42px" src="https://raw.githubusercontent.com/Y0ung-DST/DNA_cryptography/refs/heads/main/assets/dabdoub.gif">
 
----
-
 ### > About Y0ung-DST
 
-- Bug Hunter — helped secure 20+ companies including PayPal, Valve, Discord, etc.
-- Vulnerability Researcher — identified and reported:
+- Bug Hunter, helped secure 20+ companies including PayPal, Valve, Discord, etc.
+- Vulnerability Researcher, identified and reported:
   - CVE-2022-31855
   - CVE-2021-26723
 
@@ -27,7 +25,7 @@
 [<img align="left" alt="young | HTB" width="38px" src="https://avatars.githubusercontent.com/u/31746234?s=280&v=4" />][HTB]
 [<img align="left" alt="young | Medium" width="38px" src="https://images.icon-icons.com/3041/PNG/512/medium_logo_icon_189223.png" />][Medium]
 
-<br><br><br>
+<br><br>
 
 [HTB]: https://app.hackthebox.com/profile/252510
 [X]: https://twitter.com/Y0ung_MA
